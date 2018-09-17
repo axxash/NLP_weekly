@@ -8,3 +8,9 @@ in Proceedings of the 2016 Conference of the North American Chapter of the Assoc
 Jianshu Chen, Chong Wang, Lin Xiao, Ji He, Lihong Li and Li Deng
 in 31st Conference on Neural Information Processing Systems (NIPS 2017)
 
+# Learning to Reweight Examples for Robust Deep Learning
+Mengye Ren, Wenyuan Zeng, Bin Yang, Raquel Urtasun
+The 35th International Conference on Machine Learning (ICML 2018)
+为了解决深度神经网络容易对训练集偏差和标注数据的噪音过拟合的问题，已有的正则化矩阵和实例重赋权重的算法，要求对超参数细致的微调。
+本文使用新的元学习算法，基于训练实例的梯度方向分配其权重，主要通过在当前mini-batch样例中调整其权重，使一个干净无偏的验证集loss最小。
+文中认为该方法可以应用在任何类型的深度网络中，不需要额外的超参数调节，在有不均衡类别和有噪音标签的问题上，只需要一小部分干净的验证集即可实现较好的效果。
