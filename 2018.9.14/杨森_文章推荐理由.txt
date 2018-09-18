@@ -1,0 +1,1 @@
+ 该文章的主要贡献在于去除了cnn和rnn结构，直接用位置编码来获取位置信息。另一个贡献就是stack的multi-head attention结构

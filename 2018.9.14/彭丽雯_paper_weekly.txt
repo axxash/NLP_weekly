@@ -1,0 +1,3 @@
+GraphGAN: Graph Representation Learning with Generative Adversarial Nets
+这篇论文是上海交通大学、微软亚洲研究院和香港理工大学在AAAI 2018上发表的论文，第一作者是上海交通大学-微软亚洲研究院联合培养博士生王鸿伟．
+主要工作是在网络表征学习中引入生成对抗网络（GAN）的框架，利用生成器和判别器的对抗训练进行同构网络的网络表征学习。提出了一种通过构造节点的BFS树的方法进行负样本采样的算法．进行了边预测和节点分类实验，对比DeepWalk, LINE, Node2vec, Struc2vec方法显示出了较好的结果．最后简单介绍了网络特征学习在情感预测和推荐系统领域的应用．
