@@ -1,0 +1,9 @@
+论文题目：Conic Scan-and-Cover algorithms for nonparametric topic modeling
+作者：MikHail Yurochkin, Aritra Guha and XuanLong Nguyen. All of them are from Univerisy of Michigan.
+会议：NIPS 2017
+关键词：文本聚类，主题模型
+
+本论文提出了一种新颖的方法，来推断topic的个数以及文章对应的topic。它用单纯形类比主题推断模型，即每个顶点都是一个单词，然后从单纯形的中心出发，训练K个椎体，直到覆盖整个单纯形，即收敛。感觉类似K-means方法。
+优点：提出了比较新颖的方法；不需要指定topic个数；速度快；perplexity比lda以及hdp都高。
+缺点：其实这个方法并不是很难，另外个人觉得实验部分，并不是特别能说明问题，比如，perplexity好并不一定代表真实效果好，如果能贴出来打印出来的topic结果会更好；在对比lda,hdp与该方法的perplexity随着训练时间改变时，lda与hdp都有收敛的曲线，但是该方法没有曲线，只有一个点，不知道是什么原因。
+Code is available at https://github.com/moonfolk/Geometric-Topic-Modeling

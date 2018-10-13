@@ -1,0 +1,2 @@
+本周推荐论文：SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient
+推荐理由：介绍了使用Policy Gradient方法生成discrete序列的问题。对使用GAN进行离散序列生成等方向很有帮助

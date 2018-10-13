@@ -1,0 +1,2 @@
+推荐论文：Design Challenges and Misconceptions in Neural Sequence Labeling
+推荐理由：COLING 2018 Best Paper，同时论文基于的 PyTorch 代码框架 NCRF++ 收录于 ACL 2018  Demo Paper。论文模型非常清晰，分别在三种序列标注问题上实验，比较了LSTM和CNN词、字嵌入向量带来的影响。
