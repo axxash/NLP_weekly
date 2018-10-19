@@ -2,7 +2,7 @@
 Attention is all you need
 
 ### 作者
-1. [Ashish Vaswani](https://ai.google/research/people/AshishVaswani,Ashish Vaswans)
+1. [Ashish Vaswani](https://ai.google/research/people/AshishVaswani)
 2. Noam Shazeer
 3. Niki Parmar
 
