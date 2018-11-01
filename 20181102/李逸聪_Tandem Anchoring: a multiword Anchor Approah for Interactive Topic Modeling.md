@@ -2,8 +2,8 @@
 Tandem Anchoring: a multiword Anchor Approah for Interactive Topic Modeling
 
 ## 论文作者
-*Jeffery Lund, Connor Cook, Kevin Seppi. All of them are from Computer Science Department of Brigham Young University.
-*Jordan Boyd-Graber is from Computer Science Department of University of Colorado Boulder.
+* Jeffery Lund, Connor Cook, Kevin Seppi. All of them are from Computer Science Department of Brigham Young University.
+* Jordan Boyd-Graber is from Computer Science Department of University of Colorado Boulder.
 
 ## 论文简介
 本篇论文发表在EMNLP 2017上。本文面向的是interactive work，要求速度快，需要用到先验知识提升效果，anchor正好有这两种优势。同时，作者提出了多anchor的topic modeling，比传统的single anchor效果好。
