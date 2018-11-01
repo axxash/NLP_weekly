@@ -7,13 +7,13 @@ Tandem Anchoring: a multiword Anchor Approah for Interactive Topic Modeling
 
 ## 论文简介
 本篇论文发表在EMNLP 2017上。本文面向的是interactive work，要求速度快，需要用到先验知识提升效果，anchor正好有这两种优势。同时，作者提出了多anchor的topic modeling，比传统的single anchor效果好。
-'''
+
+```
 How to find anchor word:
 
-Low-to-mid frequency words are often anchors because anchor words must be unique to a
-topic; intuitive or high-frequency words cannot be
-anchors if they have probability in any other topic.
-'''
+Low-to-mid frequency words are often anchors because anchor words must be unique to a topic; 
+intuitive or high-frequency words cannot be anchors if they have probability in any other topic.
+```
 
 ## 论文摘要
 Interactive topic models are powerful tools
