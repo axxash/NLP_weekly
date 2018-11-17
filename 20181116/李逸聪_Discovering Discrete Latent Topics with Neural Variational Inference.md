@@ -5,6 +5,7 @@ Discovering Discrete Latent Topics with Neural Variational Inference
 Yishu Miao 1 Edward Grefenstette 2 Phil Blunsom 1 2
 
 1 University of Oxford, UK
+
 2 DeepMind, London, UK
 
 ## 论文简介
