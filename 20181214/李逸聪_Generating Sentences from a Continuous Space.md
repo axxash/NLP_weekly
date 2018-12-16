@@ -7,7 +7,9 @@ Generating Sentences from a Continuous Space
 
 ## 论文简介
 本篇文章虽然比较老，是CoNLL 2016上的文章，但是它的一作是斯坦福大牛Bowman，这是第一篇将VAE应用于生成连续句子的文章。之前都是将文章或者句子看做bag of words。
+
 这篇文章提出了基于RNN的VAE模型，目的是学习句子内容的全局潜在重述。框架如下：
+
 ![主题框架](https://github.com/axxash/NLP_weekly/raw/master/20181214/picture/Generating%20Sentences%20from%20a%20Continuous%20Space.png)
 
 ## 论文摘要
